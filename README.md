@@ -12,4 +12,3 @@ The healthcare projects that are listed here are part of:
     a. Part1_DataCleaning
     b. Part2_Answers
     c. CLAIMS DATA REPORT_NM
-
